@@ -1,5 +1,5 @@
 # SejongWP_HW.github.io
-Jang Hyun Jin
+18011727 장현진 (Jang Hyun Jin)
 
 페이지 맨 뒤에 
 Home.html
